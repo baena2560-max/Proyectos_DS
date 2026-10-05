@@ -9,7 +9,7 @@ Me interesa transformar datos en información clara que ayude a entender mejor u
 
 ## 🧠 Tecnologías y herramientas
 
-- Python
+- P ython
 - Pandas
 - NumPy
 - Matplotlib
